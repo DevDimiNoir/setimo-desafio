@@ -1,0 +1,24 @@
+@media(max-width:500px){
+    figure{width: 90%;}
+    .informacoes{width:90%;}
+    a{margin-left:50px;}    
+}
+@media(max-width:400px){
+    figure{height:30% ;}
+    .informacoes{height:70%;}
+    a{margin-left:30px;}
+}
+@media(max-width:360px){
+    h1{
+        font-size: 1em;
+    }
+    .vantagens{
+        font-size: 12px;
+    }
+    div p{
+        font-size: 0.6em;
+    }
+    h2{
+        font-size: 0.6em;
+    }   
+}
